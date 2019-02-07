@@ -1,14 +1,3 @@
-
-'''
-
-Some partially defined functions for the Machine Learning assignment. 
-
-You should complete the provided functions and add more functions and classes as necessary.
- 
-Write a main function that calls different functions to perform the required tasks.
-
-'''
-
 #imports
 import numpy as np
 from sklearn import preprocessing,neighbors,svm,tree,naive_bayes,metrics
